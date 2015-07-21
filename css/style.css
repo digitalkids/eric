@@ -1,0 +1,49 @@
+.text-marvel {
+  font-weight:bolder;
+  font-family:arial;
+  font-style:italic;
+  
+  
+}
+
+body{
+  background-image:url("http://3.bp.blogspot.com/-plcIQJIJ8Vo/VEy9dvseBbI/AAAAAAAEBXA/TT1HHzAm0JQ/s1600/superheroes-pretty-paper-008.jpg");
+  background-position:center center;
+  background-scroll:fixed;
+  background-repeat:no-repeat;
+  background-size:cover;
+  text-decoration:underline;
+  
+}
+  .subsol{
+    text-style:italic;
+  }  
+  #gta5b h1 {
+    
+      font-style: italic;
+    
+     ;
+  }
+img:hover {
+  border: 3px solid black;
+  border-radius:20%;
+}
+.spiderman{
+  text-align:center;
+  
+}
+.ironman{
+  text-align:center;
+  
+}
+.capitanamerica{
+  text-align:center;
+  
+}
+.google{
+  font-size:25px;
+  
+  
+  
+  
+}
